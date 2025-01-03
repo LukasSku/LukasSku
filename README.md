@@ -18,16 +18,14 @@
   <h2>⚡ About Me ⚡</h2>
 
   <p align="center">
-    🎓 22 years old <br/>
-    💻 Linux Systems & Automation<br/>
+    👤 22 years old from Germany<br/>
     🔧 Love to solve technical challenges<br/>
-    🚀 Interested in Server Administration & Network Security
   </p>
 </div>
 
 <br/>
 
-## 🚀 Interests
+## 🚀 Interested in
 
 <div align="center">
 
