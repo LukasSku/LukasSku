@@ -30,8 +30,6 @@
 ### 💬 Discord
 [![Discord](https://img.shields.io/badge/lukas1803-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/395304544315113472)
 
-### 🎮 Join my DC-Server
-[![Discord Server](https://discord.com/api/guilds/1274240998704287867/widget.png?style=banner2)](https://discord.gg/dQZEMmdTyD)
 
 </div>
 
